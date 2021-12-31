@@ -1,5 +1,5 @@
 # LELEC2710---Nanoelectronics---Project-Aidala
-This repository contains all the images produced with the Python package "Kwant" in the framework of the Project of LELEC2710 at UCLouvain (Groth,2014). The goal was to re-create the physics presented in (Aidala, 2007). The final report associated to this work is also present.
+This repository contains all the images produced with the Python package "Kwant" in the framework of the Project of LELEC2710 at UCLouvain (Groth,2014). The goal was to re-create the physics presented in (Aidala, 2007). The final report associated to this work is also present as well as the slides of the intermediary presentation.
 
 # Authors
 
